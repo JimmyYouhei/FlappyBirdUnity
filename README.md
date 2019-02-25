@@ -36,3 +36,6 @@ but C# mindset is somewhat different especially in Unity so I am still learning
 -	Nothing is perfect , Unity also some time display arbitrary error such as  array out of bound while developing . Normally restating will fix it 
 -	C# will be the only scripting language in the future so forget all about other old language of Unity   
 
+## License 
+This project is a free software and follow MIT License. More detail can be find [here](https://github.com/JimmyYouhei/FlappyBirdUnity/blob/master/LICENSE.MD)
+
