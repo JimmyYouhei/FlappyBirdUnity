@@ -9,6 +9,7 @@
 
 ## How to Install
 - If you have an Android OS phone you can install from [Google App Store](https://play.google.com/store/apps/details?id=com.se00409x.FlappyBirdAssignment)
+Due to google app store forbid me to name or mention Flappy Bird in the title or description because of intellectual right violation.And I do think google app should do so. As a result mydescription maybe vauge 
 - If you use Mac or window you can download from my [google drive](https://drive.google.com/drive/folders/1dQdVpYWsO4jX_oZYUgxrap_DHrltOiWQ?usp=sharing) and choose the 86 or 64 according to your computer
 - if you want to work with the source code then please download from this repository and use Unity to open
 
