@@ -42,5 +42,5 @@ Due to google app store forbid me to name or mention Flappy Bird in the title or
  
 
 ## License 
-This project is a free software and follow MIT License. More detail can be find [here](https://github.com/JimmyYouhei/FlappyBirdUnity/blob/master/LICENSE.MD)
+This project is free software and follows the MIT License. More detail can be find [here](https://github.com/JimmyYouhei/FlappyBirdUnity/blob/master/LICENSE.MD)
 
